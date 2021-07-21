@@ -14,7 +14,7 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-info bg-info">
-    <h5 class="text-white"> Hospital Managment System </h5>
+    <h5 class="text-white"> LOCAL CLINIC </h5>
     <div class="mr-auto"> </div>
     <ul class="navbar-nav">
         <?php
